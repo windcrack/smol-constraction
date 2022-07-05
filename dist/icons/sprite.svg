@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <symbol id='arrow' viewBox="0 0 8 5" width="8" height="5">
+        <path d="M7.06 0L4 2.99236L0.94 0L0 0.921229L4 4.84135L8 0.921229L7.06 0Z" fill="#333333"/>
+    </symbol>
+     <symbol id='arrow-green' viewBox="0 0 8 5" width="8" height="5">
+        <path d="M7.06 0L4 2.99236L0.94 0L0 0.921229L4 4.84135L8 0.921229L7.06 0Z" fill="#22917B"/>
+    </symbol>
+</svg>
+

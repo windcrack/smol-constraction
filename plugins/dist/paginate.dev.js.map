@@ -1,0 +1,1 @@
+{"version":3,"sources":["paginate.js"],"names":["Vue","component","Paginate"],"mappings":";;AAAA;;AACA;;;;AAEAA,gBAAIC,SAAJ,CAAc,UAAd,EAA0BC,yBAA1B","sourcesContent":["import Vue from \"vue\";\nimport Paginate from 'vuejs-paginate'\n\nVue.component('Paginate', Paginate)\n"],"file":"paginate.dev.js"}
